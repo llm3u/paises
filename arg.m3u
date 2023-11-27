@@ -16,13 +16,10 @@ https://comodoro.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES ARG", TyC SPORTS Internacional
-http://38.43.150.126:8000/play/a01z/index.m3u8
+http://167.250.135.246:81/play/a0do/index.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES ARG", DEPORTV 24.1
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://tribunoweb.com.ar/wp-content/uploads/2021/05/pluto-tv-telefe-tvlaint.jpg" group-title="DEPORTES ARG", TELEFE DEPORTES
-https://siloh.pluto.tv/live/production/CopaLibertadores/ARG/Live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="DEPORTES ARG", Tango Sports 
 https://panel.dattalive.com/8026/8026/playlist.m3u8
@@ -173,19 +170,19 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
-https://ythls.armelin.one/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
-https://ythls.armelin.one/channel/UC1bBjOZieJWHbsFA0LwjjJA.m3u8
+https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
-http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
 https://g4.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -282,13 +279,13 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTIVOS", TyC SPORTS Internacional
-http://38.43.150.126:8000/play/a01z/index.m3u8
+http://167.250.135.246:81/play/a0do/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS
-http://190.216.162.154:8000/play/a00k
+http://131.161.53.2:8000/play/a01i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ek_6qw0u6haNRkFE6uGos7WgtQ6VYTeWKaxRWwg8J9easyR-1slEEPrHbfkAW6e2EVzMceQY=s176-c-k-c0x00ffffff-no-rj" group-title="DEPORTIVOS", CLARO SPORTS 2
-http://190.216.162.154:8000/play/a00l
+http://131.161.53.2:8000/play/a045/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/100px-Tigo_Sports_logo.svg.png" group-title="DEPORTIVOS", TIGO SPORTS
 https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
@@ -306,13 +303,13 @@ http://45.172.218.126:8000/play/a03s/index.m3u8
 http://181.78.78.105:8000/play/a08b/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="DEPORTIVOS", ESPN
-http://38.43.150.126:8000/play/a035/index.m3u8
+http://167.250.135.246:81/play/a05i/index.m3u8 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
 http://181.78.78.105:8000/play/a03s/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
-http://38.43.150.126:8000/play/a03a/index.m3u8
+http://181.205.130.194:4000/play/a07i/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="DEPORTIVOS", ESPN 2
 http://45.190.187.241:58001/play/a009/index.m3u8
@@ -324,13 +321,13 @@ http://45.190.187.241:58001/play/a008/index.m3u8
 http://190.109.22.229:9991/play/a062/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn3.png" group-title="DEPORTIVOS", ESPN 3
-http://190.109.22.227:9991/play/a062/index.m3u8
+http://186.148.163.18:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTIVOS", ESPN 4 
 http://181.78.78.105:8000/play/a08n/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTIVOS", ESPN 4 
-http://38.43.150.126:8000/play/a00m/index.m3u8
+http://181.78.75.11:9500/play/a033/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn4.png" group-title="DEPORTIVOS", ESPN 4 
 http://45.172.218.126:8000/play/a00m/index.m3u8
@@ -642,11 +639,11 @@ http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1rtWgqD.jpg" group-title="NOTICIAS INTERNACIONAL",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/128-SBT.png" group-title="NOTICIAS INTERNACIONAL", SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w130916676_b216000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/nSzDKmMAd6VYOXEbK4bPjUsNTPyMS246uuS0Qt5pji020VH9QV06OHrLGmEr_AIovmj6PGIr6AE=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", Jornalismo VTV SBT
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/noticias.tvperu/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL", TV Perú Noticias
-https://d10tjjjvbn1fcu.cloudfront.net/out/v1/902c1a0395264f269f1160efa00660e4/index_3.m3u8
+https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6V9_yDrni0eTO56Mp2nsglBZaCHKdObHa4-YEpBc4a7Ua-HPieL5q1NPZSc3W_pkq9Eo&usqp=CAU" group-title="NOTICIAS INTERNACIONAL", ABC PARAGUAY
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
@@ -675,6 +672,9 @@ https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ntvnews24/picture?width=200&height=200" group-title="NOTICIAS INTERNACIONAL" , Nippon News TV Japon
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKb5KXhTArUUu2a_rUI8MbbjryIEUwqoWj420zGxVHc=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS INTERNACIONAL", MULTIMEDIOS MEXICO
+https://ythls.armelin.one/channel/UCo1nfa1JKNqtcUyLjLwTiIw.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/myw6vj2/foro-tv.jpg" group-title="NOTICIAS INTERNACIONAL", FORO TV
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_5.m3u8
 
@@ -701,6 +701,9 @@ https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1435__Cine.png" group-title="CINE", + CINE
 https://tv.streaming-chile.com:1936/8142/8142/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.m3u.cl/logo/1547_ARCine.png" group-title="CINE", CINE por ARPLAY
+https://stmv5.livecastv.com/arplaytv/arplaytv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Pakapaka.ar" tvg-country="AR" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/pakapaka.png" group-title="INFANTIL", PAKA PAKA  22.2
 https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/.m3u8
@@ -789,7 +792,7 @@ https://stmv1.cnarlatam.com/xtremaanimal/xtremaanimal/playlist.m3u8
 https://cdnhd.iblups.com/hls/DD3nXkAkWk.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/gwVNQhVICXN4Q7djaLyeQGCiMAa4Jum_PqeVaFZ1W90T4Y0G297wC1upnHRcKUbA6Q=w412-h220-rw" group-title="AMBA", GEN TV 15.2
-https://inliveserver.com:1936/14056/14056/chunklist_w900525224.m3u8
+https://cdnhd.iblups.com/hls/20HQGYYDF9.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/neo-tv-digital-16-1_orig.png" group-title="AMBA", NEO TV DIGITAL  16.1
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
@@ -801,7 +804,7 @@ https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8
 https://panel.dattalive.com/8118/8118/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ssiptvarg.weebly.com/uploads/1/3/9/6/139612966/1026-tele-mix_orig.png" group-title="AMBA", TELE MIX CANAL 50 GLEW
-https://panel.dattalive.com:443/8068/8068/playlist.m3u8
+https://panel.dattalive.com/8068/8068/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/907114710088241152/kEDLAPN4_400x400.jpg" group-title="AMBA", CINCO TV TIGRE  30.1
 https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
@@ -1124,7 +1127,7 @@ https://stream.arcast.com.ar/ecotv/ngrp:ecotv_all/playlist.m3u8
 https://vivo.solumedia.com:19360/canalinmobiliario/canalinmobiliario.m3u8
 
 #EXTINF:-1 tvg-logo="https://canal6mardelplata.weebly.com/uploads/1/4/0/1/140190766/published/89617673-666063307530186-6373931604150059008-n.jpg?1639521855" group-title="PCIA BS AS", CANAL 6 MAR DEL PLATA
-https://panel.dattalive.com:443/8186/8186/playlist.m3u8
+https://panel.dattalive.com/8186/8186/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3U8PC3QtI-S1WkBl0ieaz2XWw92IfdA8EGsUppnNkz9UfPhf4onqulTjn2p8HdZRRaYJhl9r=s900-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 21 PEHUAJO
 https://vivo.solumedia.com:19360/canal21/canal21.m3u8
