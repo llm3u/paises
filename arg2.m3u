@@ -117,6 +117,12 @@ https://i.mjh.nz/PlutoTV/6320d2755e54db000783fd87-alt.m3u8
 
 
 
+
+
+
+
+
+
   
 
 
@@ -164,9 +170,9 @@ https://comodoro.cdn.rcs.net.ar/mnp/telefe/output.mpd
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
-https://livetrx01.vodgc.net/eltrecetv.m3u8
+https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 *
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
 https://comodoro.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
@@ -256,10 +262,10 @@ https://ythls.armelin.one/channel/UCbxnq2sKBgDl5poaKrUSs_Q.m3u8
 https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-country="AR" tvg-logo="https://yt3.googleusercontent.com/qiB2U_CZaAY_4IdZydkjJwMxnGCpr0v-tLoJmKrjG0KeqA3rLdj5hQ73jnOIjq2kmUcPajCvCTA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CANAL 26  24.2
-http://200.115.193.177:80/live/26hd-720/chunklist_w1196091674.m3u8
+https://ythls.armelin.one/channel/UCrpMfcQNog595v5gAS-oUsQ.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
-https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g
+https://ythls.armelin.one/channel/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CRONICA_HD.png" group-title="NOTICIAS NACIONALES", CRONICA HD  24.4 
 https://g4.vxral-slo.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p.m3u8
@@ -334,8 +340,13 @@ https://ythls.armelin.one/channel/UCIoNMC1V8SQ6gPcyoPj7aIw.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/GmKYEDNukShC6vUJU-drXQMkllMCZK184gRIMBulv41Z0suNzAw-uwhY6ViGlDh07oAcORvp=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", El Observador 107.9
 https://ythls.armelin.one/channel/UC-rI_XNppHJO-Ga4RW_CDKw.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/Ww7DjZRjD_qoJfcoNBfS7JYncYTdyf_jIsk4O6aVZFk7KEBvwVKJiWG2971CUwlktJ13Cz_E3A=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", CLARÍN - Eventos
+https://ythls.armelin.one/channel/UCjMGMWnToRcQRqmyVB4R2xQ.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaRGO4j6_mLGeLiFV6tWQZaY_xL6He9--A3M-IRnpA=s176-c-k-c0x00ffffff-no-rj" group-title="NOTICIAS NACIONALES", SENADO TV (SOLO SESIONES)
 https://ythls.armelin.one/channel/UCStm2uvQKowSXrnCzTWAn6Q.m3u8
+
+
 
 
 
