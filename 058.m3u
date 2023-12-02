@@ -11,20 +11,6 @@ https://tw.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://velostarrdls.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://cesop.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://olatv.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://velostarlh.cdn.rcs.net.ar/mnp/espn2/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://meganet.cdn.rcs.net.ar/mnp/espn2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", Tango Sports 
 https://panel.dattalive.com/8056/8056/playlist.m3u8
