@@ -2532,17 +2532,17 @@ https://ythls.armelin.one/channel/UCofCCCDfOjS41wo8XB_PDXg.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="CINE", HBO
-http://179.1.87.75:8098/play/a03a/index.m3u8
+http://181.78.22.70:8000/play/a02q/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/HBO_Family.svg/130px-HBO_Family.svg.png" group-title="CINE", HBO Family
-http://179.1.87.75:8098/play/a00x/index.m3u8
+http://181.226.112.56:8000/play/a020/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/125px-HBO_logo.svg.png" group-title="CINE", HBO
-http://179.1.87.75:8098/play/a04i/index.m3u8
+http://181.226.112.56:8000/play/a01c/index.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Logohboplus2019.svg/125px-Logohboplus2019.svg.png" group-title="CINE", HBO +
-http://179.1.87.75:8098/play/a00v/index.m3u8
+http://181.226.112.56:8000/play/a07j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/130px-HBO_Xtreme.svg.png" group-title="CINE", HBO Xtreme
-http://179.1.87.75:8098/play/a00w/index.m3u8
+http://181.226.112.56:8000/play/a021/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/149px-HBO2_logo.svg.png" group-title="CINE", HBO 2
-http://179.1.87.75:8098/play/a00u/index.m3u8
+http://181.78.22.70:8000/play/a02t/index.m3u8
 
 
 
