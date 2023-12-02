@@ -1,12 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="cordoba", telf
-https://delivery.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="cordoba", telf
-https://router.cdn.rcs.net.ar/iptelva/ch12cba/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
+https://barone.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
+https://iptel.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
+https://sersat.cdn.rcs.net.ar/mnp/espn2/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", Tango Sports 
 https://panel.dattalive.com/8056/8056/playlist.m3u8
