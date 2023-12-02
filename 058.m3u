@@ -2,15 +2,16 @@
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://barone.cdn.rcs.net.ar/mnp/espn2/output.mpd
+https://barone.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://tw.cdn.rcs.net.ar/mnp/espn2/output.mpd
+https://tw.cdn.rcs.net.ar/mnp/espn2/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/espn2/output.mpd
+https://ushuaia-vision.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
-
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", espn 2
+https://coop-montehermoso.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 
 
