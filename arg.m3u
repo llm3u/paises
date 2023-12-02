@@ -17,7 +17,7 @@ http://45.172.218.126:8000/play/a01v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports2.png" group-title="LA LLAMA Sports", FOX Sports 2
 http://45.172.218.126:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="LA LLAMA Sports", FOX Sports 3 /
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/FoxSports3.png" group-title="LA LLAMA Sports", FOX Sports 3 
 http://45.172.218.126:8000/play/a00y/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="LA LLAMA Sports", TyC SPORTS 
