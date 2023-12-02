@@ -5,8 +5,8 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn.png" group-title="LA LLAMA Sports", ESPN 8
 https://stationtv.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="LA LLAMA Sports", ESPN 2
-https://router.cdn.rcs.net.ar/mnp/espn2/output.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn2.png" group-title="LA LLAMA Sports", ESPN 22
+https://delivery.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/Espn3.png" group-title="LA LLAMA Sports", ESPN 3
 https://router.cdn.rcs.net.ar/mnp/espn3/output.mpd
