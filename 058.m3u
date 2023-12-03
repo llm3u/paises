@@ -2,12 +2,17 @@
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
+https://cetl02.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-https://stationtv.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
+https://bvsat.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
+https://ansible.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="FUTBOL ARG", Tango Sports 
-https://panel.dattalive.com/8056/8056/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
+https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTIVOS", DIRECTV SPORTS
 http://181.177.255.253:8000/play/a075/index.m3u8
