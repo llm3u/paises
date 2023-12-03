@@ -10,24 +10,7 @@ https://barone.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 https://tw.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://cesop.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://meganet.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://iptel-allende.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://is.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://iplatense.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-
-#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports 
-https://coop-montehermoso.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTIVOS", DIRECTV SPORTS
 http://181.177.255.253:8000/play/a075/index.m3u8
