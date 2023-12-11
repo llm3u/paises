@@ -182,7 +182,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
-https://tvfuego.cdn.rcs.net.ar/mnp/ip/output.mpd  
+https://kmmplay.cdn.rcs.net.ar/mnp/ip/output.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/IP_NOTICIAS.jpg" group-title="NOTICIAS NACIONALES", IP NOTICIAS 24.5
 https://kmmplay.cdn.rcs.net.ar/mnp/ip/output.mpd
