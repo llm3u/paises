@@ -926,7 +926,7 @@ https://ythls.armelin.one/channel/UCSNEUHaJ2fg7EA0qxweuTxg.m3u8
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO-AMBA", LATINA RADIO FM 101.1
-https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiogenesis970.com/imgs/logo.png" group-title="RADIO-AMBA", RADIO GENESIS AM 970
 https://radiolinks.click/hls/genesis.m3u8
@@ -1159,9 +1159,6 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="https://marchitv.ar/wp-content/uploads/2022/05/IsologoMarchiTVFinalSINPDO-237x86.png" group-title="PCIA BS AS", Marchi TV
 https://panel.dattalive.com/8102/8102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-dbAKPzkg4RO4mcpw8700bO3IRFFltD7jl5m4ddaYVgSekuEADou1OEgzyQ1ody_QU4&usqp=CAU" group-title="PCIA BS AS", AlternaTV
-https://alternatv.ar/stream/hls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="PCIA BS AS", SPTV Digital
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
@@ -1172,7 +1169,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
 #EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC
-https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD-video=1200000.m3u8?dvr_window_length=120
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/playlist.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1063837924259713026/BoBILHLP_400x400.jpg" group-title="PCIA BS AS", BOLIVAR TV
 https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
@@ -1184,7 +1181,7 @@ https://stmv1.cnarlatam.com/lineadirectaradio/lineadirectaradio/playlist.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/461996477468778496/01djHylv.jpeg" group-title="PCIA BS AS", BRAGADO TV
-https://inliveserver.com:1936/17044/17044/playlist.m3u8
+https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="PCIA BS AS", POWER HD PINAMAR
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
