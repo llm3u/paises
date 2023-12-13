@@ -569,6 +569,9 @@ https://ythls.armelin.one/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
 #EXTINF:-1 tvg-logo="https://quaeretv.com/wp-content/uploads/2023/01/cropped-cropped-logoquaeresinfondo.png" group-title="AMBA", QUAERE TV
 https://videostream.shockmedia.com.ar:19360/quaeretv/quaeretv.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="AMBA", 24-7 TV
+https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
@@ -635,7 +638,7 @@ https://ythls.armelin.one/channel/UCSNEUHaJ2fg7EA0qxweuTxg.m3u8
 https://live-05-13-la100.vodgc.net/live-05-13-la100/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="RADIO-AMBA", LATINA RADIO FM 101.1
-https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiogenesis970.com/imgs/logo.png" group-title="RADIO-AMBA", RADIO GENESIS AM 970
 https://radiolinks.click/hls/genesis.m3u8
@@ -868,9 +871,6 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 #EXTINF:-1 tvg-logo="https://marchitv.ar/wp-content/uploads/2022/05/IsologoMarchiTVFinalSINPDO-237x86.png" group-title="PCIA BS AS", Marchi TV
 https://panel.dattalive.com/8102/8102/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS-dbAKPzkg4RO4mcpw8700bO3IRFFltD7jl5m4ddaYVgSekuEADou1OEgzyQ1ody_QU4&usqp=CAU" group-title="PCIA BS AS", AlternaTV
-https://alternatv.ar/stream/hls/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/202_San_Pedro_TV.png" group-title="PCIA BS AS", SPTV Digital
 https://srv2.zcast.com.br/sptv32/sptv32/playlist.m3u8
 
@@ -881,7 +881,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8
 https://vivo.solumedia.com:19360/canalsiete/canalsiete.m3u8
 
 #EXTINF:-1 tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="PCIA BS AS", BVC
-https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD-video=1200000.m3u8?dvr_window_length=120
+https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/playlist.m3u8?dvr_window_length=120
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1063837924259713026/BoBILHLP_400x400.jpg" group-title="PCIA BS AS", BOLIVAR TV
 https://stmv5.livecastv.com/bolivartelevision/bolivartelevision/playlist.m3u8
@@ -893,7 +893,7 @@ https://stmv1.cnarlatam.com/lineadirectaradio/lineadirectaradio/playlist.m3u8
 https://vivo.solumedia.com:19360/celta/celta.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/461996477468778496/01djHylv.jpeg" group-title="PCIA BS AS", BRAGADO TV
-https://inliveserver.com:1936/17044/17044/playlist.m3u8
+https://inliveserver.com:1936/12000/12000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radiopower.com.ar/powerhd/webroot/img/logoPwrHD_small.png" group-title="PCIA BS AS", POWER HD PINAMAR
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
@@ -1453,6 +1453,11 @@ https://videohd.live:19360/8092/8092.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1339774511537737728/2LZUznXw.jpg" group-title="FORMOSA", SUBLIME GRACIA TV FORMOSA
 https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQwBuHJ75KxfcONCRNgUWyqDM126rtpN5ePjF_o_g=s176-c-k-c0x00ffffff-no-rj" group-title="FORMOSA", CANAL 23 FORMOSA
+https://ythls.armelin.one/channel/UCLhBOPrfgpb4N00DZB5GI4A.m3u8
+
+
+
 
 
 
@@ -1927,7 +1932,7 @@ https://ythls.armelin.one/channel/UCTnhGCW4mOSZjIaY1F0Os-Q.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/eb/609px-Canal_Trece_San_Luis_%28Logo_2016%29.png/revision/latest/scale-to-width-down/340?cb=20191120203521" group-title="SAN LUIS", CANAL 13 SAN LUIS
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/qwv7I6E9EFa62G51wiyk-RyuYY1kSFc6P_37Z8Fv-BIihloEq0csBPzbvryY7FMNQw9ICKVuNQ=s176-c-k-c0x00ffffff-no-rj" group-title="SAN LUIS", SAN LUIS +
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60cb92f6f4420d0014ac6692_540p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR2rWFai7wm5hmr6nAciUu7Esm8YcLq10du0w&usqp=CAU" group-title="SAN LUIS", CANAL 2 SAN LUIS
@@ -2211,6 +2216,8 @@ https://ythls.armelin.one/channel/UCofCCCDfOjS41wo8XB_PDXg.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8vbEC8bs7jGp8a4BXCtqFOMK_LctZc43IJwsCX2zAgyvyerAEgdzKKRI4TykU32lmP1M6aR5=s176-c-k-c0x00ffffff-no-rj" group-title="TUCUMAN", La tucumana FM
 https://ythls.armelin.one/channel/UCS_F0326eeAQY09gFqJILCw.m3u8 
+
+
 
 
 
