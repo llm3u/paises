@@ -863,6 +863,9 @@ https://ythls.armelin.one/channel/UCDGRQwIsI-kOCwdUn4UFjSQ.m3u8
 #EXTINF:-1 tvg-logo="https://quaeretv.com/wp-content/uploads/2023/01/cropped-cropped-logoquaeresinfondo.png" group-title="AMBA", QUAERE TV
 https://videostream.shockmedia.com.ar:19360/quaeretv/quaeretv.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1551_24_7_TV.png" group-title="AMBA", 24-7 TV
+https://stmv5.voxtvhd.com.br/247tv/247tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="AMBA", VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
 
