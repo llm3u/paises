@@ -4,11 +4,22 @@
 
 
 
-#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="EVENTOS DEPORTIVOS", DEPORTV 24.1
-
-https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
-
-
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://ushuaia-vision.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://tvfuego.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://trex.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://push.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://ushuaia-vision.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://netcoop.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://ixp-sanjuan.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://ushuaia-vision.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTIVOS", DIRECTV SPORTS
