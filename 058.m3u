@@ -13,20 +13,32 @@ https://trex.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://push.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+https://netium.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://netcoop.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://ixp-sanjuan.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
-https://ushuaia-vision.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+https:// lab.origin.rcs.net.ar/mnp/espnpremium/output.mpd 
+
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://cttplay.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://is-curuzu.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
 https://istv.origin.rcs.net.ar/mnp/espnpremium/output.mpd
-
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://iplay.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://delivery-lab.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://cttplay.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://cotel02.origin.rcs.net.ar/mnp/espnpremium/output.mpd
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="ARG", Tango Sports *
+https://clearnet.origin.rcs.net.ar/mnp/espnpremium/output.mpd
 
 
 #EXTINF:-1 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/1610.png" group-title="DEPORTIVOS", DIRECTV SPORTS
