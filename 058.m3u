@@ -9,11 +9,13 @@ https://finternet.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
 https://finternet.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
-#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
-http://206.212.248.63:8080/play/hls/eyJpdiI6IlpaaDkzM0VqMXdYZVliQ2t0OXRhUlE9PSIsInZhbHVlIjoiMTRTbHhMMHhxVElJeldhWExYTGhNUnNCSmdubnJwVUNSZWhtcXBvdm1HL3psU1NNdVdrdUh4Y080SW9oSFNCYiIsIm1hYyI6IjAzYzgyNmM3MjdlNTBmM2E1MDZmYWEyYjI1MWYwOTMzZTNhYmU3Njk4MzhjMjJjMmQ1YWUyNGQ2ZTE1NWE0NTkiLCJ0YWciOiIifQ==/8f8ed351-d32f-4a59-8991-8dc3c9e4154b.m3u8?lvtoken=eyJpdiI6IlJZa3JZR1ZpN3RxeFVqMzZ2UVFuaUE9PSIsInZhbHVlIjoiWlZLeDRraDJ6SGQvWWRHb3pVc1VDOHpEbDFxdXlYNEUrdHpQWW5vd3pjM2ZzMy9nVmFEeVZrZ3dLd2VBVi9PK0RXQzE5RHJGemZWTFBoZzhxb3YxSW1TZXpiR21QN24zOFU1MkNkSWxUTWhXTzdETkw2U3hxdkk3WThOT0xOdVM4NGNMVi9UY0tTSVU1U054RFdFVUZqbXhlSW5EcUxuNndaMHhZRGJvbllOVVEzYlNTOGFpMTlkU3RhQWI4Sng4SzVxWnlsZnVEdUs5TjlkSjlLWFFQZz09IiwibWFjIjoiMzU1ZTA5YTJlMTRjNTAyNDk3OWUyMDg4NTRmMjFhM2ZmOTVjNzU1YzAzOThhMzI3NmM1NGZmZDE5ZGNhY2U3NCIsInRhZyI6IiJ9&r=c6c4a7&rt=b0348f4029e0f0cc43ea12d661ac0cbe
-#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
-
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 1
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/2121662
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 2
+http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/155677
+
+
 
 
 
