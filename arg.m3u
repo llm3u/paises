@@ -2485,9 +2485,8 @@ https://ythls.armelin.one/channel/UCAndrmynDfyUjGjzEHOIsaA.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Elocho_TV_nuevo_logo.png/640px-Elocho_TV_nuevo_logo.png" group-title="TUCUMAN", EL OCHO TUCUMAN
-https://ythls.armelin.one/channel/UCYozHHDnLnQs2yc2k3t8cPA.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hk5LMCv4/626-El-ocho-TV.png" group-title="TUCUMAN", EL OCHO TUCUMAN
+https://github.com/azgaresncf/strm2hls/raw/main/streams/elocho.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVE4QANzgXzGz73LJphirPDunehTTXLwO7QOPPhtQ=s88-c-k-c0x00ffffff-no-rj"  group-title="TUCUMAN", AMERICA TUCUMAN
 https://ythls.armelin.one/channel/UCZ8sgVyD7HqDor8ujB-TZpg.m3u8
