@@ -1132,7 +1132,7 @@ https://ythls.armelin.one/channel/UCRuY8kHZHaiqAAdjcgobsNw.m3u8
 #EXTINF:-1 tvg-logo="https://noticiasdoce.com.ar/logofooter.png" group-title="PCIA BS AS", CANAL 12 TRENQUE LAUQUEN 
 https://ythls.armelin.one/channel/UCaU_cKHQ4IFHvBzQ-tKS1-Q.m3u8
 
-#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/img/canal28.png" group-title="PCIA BS AS", UNMDP TV
+#EXTINF:-1 tvg-logo="https://canal.mdp.edu.ar/resources/views/frontend/img/canal_iso_new.png" group-title="PCIA BS AS", UNMDP TV
 https://raw.githubusercontent.com/mortal251/archivos_m3u8/main/unmsp.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ZSwlhkQFkgeMpoK8iSsAkKeJ-2RovxiK0OrwA1FyRZ5iIm-PnXKIBZMtbCBR3kD281vKUvNRug=s176-c-k-c0x00ffffff-no-rj" group-title="PCIA BS AS", CANAL 10 DE JUNIN
