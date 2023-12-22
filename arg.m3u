@@ -1423,7 +1423,10 @@ https://stream.arcast.com.ar/canal4esquel/canal4esquel/playlist.m3u8
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1384133238503841793/N7dEaLMz_400x400.jpg" group-title="CHUBUT", CADENA TIEMPO TRELEW 
-https://panel.dattalive.com/8034/8034/playlist.m3u8
+https://stream.castr.com/5c7eb11e9e06ee412ecac391/live_74e114d0ffa811eda6e497b04a4105c7/tracks-a1/index.fmp4.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1384133238503841793/N7dEaLMz_400x400.jpg" group-title="CHUBUT", CADENA TIEMPO COMODORO RIVADAVIA
+https://stream.castr.com/5c7eb11e9e06ee412ecac391/live_6cc79570051711eeb15f4d509f9a5421/tracks-a1/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1477865517230690306/bfzdGRuK_400x400.jpg" group-title="CHUBUT", AZM TV 
 https://live.canalnueve.tv/index.m3u8
