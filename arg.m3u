@@ -1,5 +1,3 @@
-
-
 #EXTM3U  
 
 
@@ -761,6 +759,9 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://viajartv.tv/wp-content/uploads/2018/05/logo-viajar-new.png" group-title="ENTRETENIMIENTO", VIAJAR
 https://stmv5.livecastv.com/manualtman/manualtman/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1445_Teatrix.png" group-title="ENTRETENIMIENTO", Teatrix
+https://content.uplynk.com/channel/585ab4fbd865426abd6fbd48fc631b6e.m3u8
 
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/e7a5944154f97d7410a425eb27d4522a.png" group-title="ENTRETENIMIENTO", Tango TV 
 https://video.misistemareseller.com/8118/8118/playlist.m3u8
@@ -1561,6 +1562,9 @@ https://vivo.solumedia.com:19360/trutv/trutv.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiourbana.coopmorteros.coop/public/Imagenes/LogoUrbana3.png" group-title="CORDOBA", URBANA TV CANAL 651 MORTEROS CORDOBA
 https://online.coopmorteros.coop/radiourbana/canal01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/916_Sex_TV.png" group-title="CORDOBA", Sex TV 
+https://stmv5.livecastv.com/sextvmusic/sextvmusic/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/EL9NeZb5ZS_dMekegkkZAcxqCl8ILxqUe2Hc_BoeNomYODo87W_aERaiHCeLCMLIjQ" group-title="CORDOBA", FM MAS TV LA CARLOTA CORDOBA
 http://streamlov.alsolnet.com/fmmastv/live/playlist.m3u8
