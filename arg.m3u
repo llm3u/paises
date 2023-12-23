@@ -126,7 +126,8 @@ https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
-http://728427103164726838.ofip231209.xyz:80/play/Iraait1031/Afffyepaw123/726838.ts
+http://mainsrv.contentgftp.xyz:80/play/vQEabowbLitCHLgzNamIizyLhJEpoNo7q-yhxJVrYxEaTlHY_NX0Osl49mKABOa9
+
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/NET_TV.jpg" group-title="NACIONALES", NET TV 27.2
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
