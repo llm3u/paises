@@ -3837,6 +3837,8 @@ https://i.mjh.nz/PlutoTV/15873fc21cad696fb37aa9054-alt.m3u8
 https://i.mjh.nz/PlutoTV/15ced7d5df64be98e07ed47b6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5cf0622da00ca1e2f6fac712" tvg-id="5cf0622da00ca1e2f6fac712" tvg-chno="2905" tvg-logo="https://images.pluto.tv/channels/5cf0622da00ca1e2f6fac712/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , EstrellaTV
 https://i.mjh.nz/PlutoTV/15cf0622da00ca1e2f6fac712-alt.m3u8
+#EXTINF:-1 channel-id="pluto-6532e7b290a74c00084a3bb6" tvg-id="6532e7b290a74c00084a3bb6" tvg-logo="https://images.pluto.tv/channels/6532e7b290a74c00084a3bb6/colorLogoPNG.png" tvg-chno="3595" group-title="CINE" , Hallmark en español
+https://i.mjh.nz/PlutoTV/16532e7b290a74c00084a3bb6-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5cf968040ab7d8f181e6a68b" tvg-id="5cf968040ab7d8f181e6a68b" tvg-chno="2650" tvg-logo="https://images.pluto.tv/channels/5cf968040ab7d8f181e6a68b/colorLogoPNG.png" group-title="CINE" , Cine Premiere
 https://i.mjh.nz/PlutoTV/15cf968040ab7d8f181e6a68b-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5cf96b1c4f1ca3f0629f4bf0" tvg-id="5cf96b1c4f1ca3f0629f4bf0" tvg-chno="2655" tvg-logo="https://images.pluto.tv/channels/5cf96b1c4f1ca3f0629f4bf0/colorLogoPNG.png" group-title="CINE" , Séptimo arte
