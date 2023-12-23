@@ -3667,8 +3667,8 @@ https://i.mjh.nz/PlutoTV/1602ba1cfb386d30007aecbbe-alt.m3u8
 https://i.mjh.nz/PlutoTV/1604f8125c6669b00077f7699-alt.m3u8
 #EXTINF:-1 channel-id="pluto-604f81a49ef73300070e554f" tvg-id="604f81a49ef73300070e554f" tvg-chno="555" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png" group-title="MUSICA" , MTV Teen Mom
 https://i.mjh.nz/PlutoTV/1604f81a49ef73300070e554f-alt.m3u8
-#EXTINF:-1 channel-id="pluto-6054ab20a365c70007e4fd44" tvg-id="6054ab20a365c70007e4fd44" tvg-chno="71" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png" group-title="INFANTIL" , Garfield
-https://i.mjh.nz/PlutoTV/16054ab20a365c70007e4fd44-alt.m3u8
+#EXTINF:-1 channel-id="pluto-645a30f6f3f5b1000864ac04" tvg-id="645a30f6f3f5b1000864ac04" tvg-logo="https://images.pluto.tv/channels/645a30f6f3f5b1000864ac04/colorLogoPNG.png" tvg-chno="907" group-title="INFANTIL" , Las Tres Mellizas
+https://i.mjh.nz/PlutoTV/1645a30f6f3f5b1000864ac04-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6076c74daa05ac0007d0eb07" tvg-id="6076c74daa05ac0007d0eb07" tvg-chno="502" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png" group-title="DEPORTIVOS" , Tuning
 https://i.mjh.nz/PlutoTV/16076c74daa05ac0007d0eb07-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6076cd1df8576d0007c82193" tvg-id="6076cd1df8576d0007c82193" tvg-chno="600" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" group-title="MUSICA" , VH1 Classics
@@ -3844,10 +3844,10 @@ https://i.mjh.nz/PlutoTV/15d14fd1a252d35decbc4080c-alt.m3u8
 https://i.mjh.nz/PlutoTV/15d14fdb8ca91eedee1633117-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d3609cd6a6c78d7672f2a81" tvg-id="5d3609cd6a6c78d7672f2a81" tvg-chno="2560" tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" group-title="MUSICA" , MTV Block Party
 https://i.mjh.nz/PlutoTV/15d3609cd6a6c78d7672f2a81-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-chno="3180" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTIL" , Nick
+#EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-chno="3180" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTIL" , Nickelodeon en español
 https://i.mjh.nz/PlutoTV/15d8d08395f39465da6fb3ec4-alt.m3u8
-#EXTINF:-1 channel-id="pluto-5d8d0ec7b0f7015fbe0a3bf7" tvg-id="5d8d0ec7b0f7015fbe0a3bf7" tvg-chno="3135" tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG-1631631965767.png" group-title="INFANTIL" , Nick Jr
-https://i.mjh.nz/PlutoTV/15d8d0ec7b0f7015fbe0a3bf7-alt.m3u8
+#EXTINF:-1 channel-id="pluto-5d8d08395f39465da6fb3ec4" tvg-id="5d8d08395f39465da6fb3ec4" tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" tvg-chno="3090" group-title="USA" , Nickelodeon en español
+https://i.mjh.nz/PlutoTV/15d8d08395f39465da6fb3ec4-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d8d0fbaa8742fa3093899da" tvg-id="5d8d0fbaa8742fa3093899da" tvg-chno="2965" tvg-logo="https://images.pluto.tv/channels/5d8d0fbaa8742fa3093899da/colorLogoPNG.png" group-title="ENTRETENIMIENTO" , Foodies
 https://i.mjh.nz/PlutoTV/15d8d0fbaa8742fa3093899da-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5d8d11baeb31c5a43b77bf59" tvg-id="5d8d11baeb31c5a43b77bf59" tvg-chno="2855" tvg-logo="https://images.pluto.tv/channels/5d8d11baeb31c5a43b77bf59/colorLogoPNG-1620236333797.png" group-title="ENTRETENIMIENTO" , Spike ¡extremo!
