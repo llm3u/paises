@@ -107,22 +107,22 @@ http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_9.jpg" group-title="NACIONALES", CANAL 9  35.1 
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210850
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8   
 
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE PLUTO TV
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613237a1c9e0db0007a91350livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE  34.1
+#EXTINF:-1 tvg-id="Telefe.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/telefe.jpg" group-title="NACIONALES", TELEFE 34.1
 http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210861
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13 33.1 
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
-https://live-01-02-eltrece.vodgc.net/eltrecetv_noti/tracks-v3/mono.m3u8
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13 33.1 
+http://zeuspro.xyz:8080/santambrogioj00/A67kgxa5WM/22098
 
-#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13  33.1 
+#EXTINF:-1 tvg-id="ElTrece.ar" tvg-country="AR" tvg-logo="https://raw.githubusercontent.com/mortal251/logos/main/CANAL_13.jpg" group-title="NACIONALES", CANAL 13 INTERNACIONAL
 http://iptvtree.net:8080/7e4b0dbd/1dd755dc3f/3194
 
 
