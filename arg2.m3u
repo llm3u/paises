@@ -450,7 +450,7 @@ https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-FullHD.smil/playlist.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="RELIGION", RADIO MARIA TV
-https://5f700d5b2c46f.streamlock.net/radiomaria/radiomaria/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
 
 #EXTINF:-1 tvg-logo="http://tdmproducciones.net/wp-content/uploads/2023/08/inminente-radio-tv-neuquen.jpeg" group-title="RELIGION", INMINENTE TV
 https://stmvideo2.livecastv.com/zonagospel/zonagospel/playlist.m3u8
@@ -1112,7 +1112,7 @@ https://stream.arcast.net:4443/canal10/ngrp:canal10_all/playlist.m3u8
 https://stream.arcast.live/canalu/canalu/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://radiomaria.org.ar/contenido/themes/radioMaria2019/imgs/logo-rm-footer.png" group-title="CORDOBA", RADIO MARIA TV
-https://5f700d5b2c46f.streamlock.net/radiomaria/radiomaria/playlist.m3u8
+https://5f700d5b2c46f.streamlock.net/maria720/maria720/chunklist_w2053024275_DVR.m3u8
 
 #EXTINF:-1 tvg-id="TelediarioTV.ar" tvg-logo="https://pbs.twimg.com/profile_images/1096469542640013313/i2uMs8b4_400x400.png" group-title="CORDOBA", TELEDIARIO RIO CUARTO
 https://stmvideo2.livecastv.com/telediario/telediario/playlist.m3u8
