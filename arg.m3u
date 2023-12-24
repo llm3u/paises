@@ -159,8 +159,8 @@ https://538d0bde28ccf.streamlock.net/live-cont.ar/cinear/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/aunar.png" group-title="NACIONALES", AUNAR  22.3
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.construirtv.com/wp-content/uploads/2020/03/Logo_300.png" group-title="NACIONALES", CONSTRUIR TV 23.3
-http://728427103164728444.ofip231209.xyz:80/play/Iraait1031/Afffyepaw123/728444.ts
+#EXTINF:-1 tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/volver-logo-png-transparent.png" group-title="NACIONALES", VOLVER
+http://lobo-tv.live:8080/Rodolfo01/Rodolfo01/210868
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="NACIONALES", DEPORTV 24.1
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
