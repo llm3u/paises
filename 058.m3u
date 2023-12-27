@@ -1,9 +1,10 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", radio 
 
 
-
+https://unlimited2-ar.dps.live/perfil/gotardis/audio/now/livestream1.m3u8
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
 https://finternet.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
