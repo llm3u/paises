@@ -1418,6 +1418,12 @@ https://vivo.solumedia.com:19360/chaco/chaco.m3u8
 #EXTINF:-1 tvg-logo="https://master.com.ar/wp-content/uploads/marca.png" group-title="CHACO", MASTERS FM 89.9 RESISTENCIA
 https://streamlov.alsolnet.com/radiomasterfm/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.fmlosangeles.com.ar/img/logo_1701796523.png" group-title="CHACO", LOS ANGELES TV
+https://inliveserver.com:1936/9002/9002/playlist.m3u8
+
+
+
+
 
 
 
@@ -1580,6 +1586,9 @@ https://vivo.solumedia.com:19360/sintonia/sintonia.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/CLR1nlZWEAAnjMx.jpg" group-title="CORDOBA", RADIO DEL OESTE 91.5 FM - CURA BROCHERO
 https://cs1.xcast.com.br/8890/8890/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://radioalegriafmweb.com/imagenes/banner.png" group-title="CORDOBA", ALEGRIA TV BELLVILLE 
+https://videostream.shockmedia.com.ar:19360/cadenaalegriafm/cadenaalegriafm.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="CORDOBA", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
