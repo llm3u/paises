@@ -49,6 +49,12 @@ https://davitel.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 6
 https://davitel.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 7
+https://f2play.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1 tvg-logo="https://lallamam3u.weebly.com/uploads/1/3/9/6/139612966/llamam3u_orig.jpg" group-title="LA LLAMA Sports", LA LLAMA Sports 8
+https://f2play.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
 
 
 #EXTINF:-1 tvg-logo="https://tangosport.files.wordpress.com/2019/01/cropped-tango-sports-logo-sin-fondo.png" group-title="LA LLAMA Sports", Tango Sports 
